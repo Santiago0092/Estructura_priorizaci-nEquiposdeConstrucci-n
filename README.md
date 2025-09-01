@@ -74,6 +74,8 @@ https://www.falabella.com.co/falabella-co/search?Ntt=cintas+demarcacion
 
 2. MAQUINARIA PRECIOS POR ALQUILER DIARIOS
 
+   CASAS
+
 EXCAVADORA: 430.000 a 973.000 cop
 https://www.skrental.com/Colombia/webapp/wsrest/getDetalleCotizacionPDFF?idSolicitud=112119&hash=BKIX1KQ0WTxo.R9JCWsJwea1WENoe/ttkYLWr6QEhM7VRyHCwQ/Oa
 
@@ -93,10 +95,6 @@ CAMIONETA DOBLE CABINA: Entre 550.000 a 600.000 cop
 
 https://panamericanrentacar.com.co/camionetas-doble-cabina/
 
-GRUA TORRE MEDIANA: entre 2.500.000 a 5.000.000 cop
-
-https://colombia.generadordeprecios.info/rehabilitacion/Actividades_preliminares/Andamios_y_maquinaria_de_elevacion/Gruas_torre/Alquiler_de_grua_torre_0_0_0_0.html
-
 EXCAVADORAS DE RODILLO: un precio de 704.000 cop
 
 https://www.skrental.com/Colombia/webapp/wsrest/getDetalleCotizacionPDFF?idSolicitud=112123&hash=W3hfLNIWBHogApl3CFx8qO17PvL.Tim1slokYu7yazJaTao3yVwb6
@@ -113,29 +111,52 @@ VOLQUETAS: Un precio de 700.000 en ediciones antiguas
 
 https://www.tumaquinaya.com/dashboard/volqueta
 
-GRÚAS MÓVILES: entre 1.479.000 a 3.720.930 cop 
-
-https://poncal.com/servicios/gruas-moviles/
-
-CARROS DE AVANCE: Uso en puentes su precio está entre 1.744.186 a 2.976.744 cop
-
-https://stup.co/izajes-y-formaletas/carros-de-avance-para-estructuras-segmentales/
-
 andamios y componentes: entre 237.000 a 475.800 cop dependiendo de la altura y anchura
 
 
 
+3. CONSTRUCCIÓN DE PUENTES
 
 
+PILOTERAS
 
+Piloteadoras pequeñas: entre $1.000.000 y $1.500.000 COP por día.
 
+Piloteadoras medianas: entre 2.000.000 y 3.000.000 COP por día.
 
+Piloteadoras grandes: entre 4.000.000 a 6.000.000 COP por día.
 
+https://accimentacionesprofundas.com/
+
+CARROS DE AVANCE: Uso en puentes su precio está entre 1.744.186 a 2.976.744 cop
+
+https://stup.co/izajes-y-formaletas/carros-de-avance-para-estructuras-segmentales/
  
+GRÚAS MÓVILES: entre 1.479.000 a 3.720.930 cop 
 
-s
+https://poncal.com/servicios/gruas-moviles
+
+DRAGAS: se encuentran entre 8.000.000 a 120.000.000 de acuerdo a su tamaño
+
+https://es.kehandredger.com/product/category/dredging_equipment?gad_source=1&gad_campaignid=14470013894&gbraid=0AAAAABblXJvAXdK6a5UXHv_jMqXIzaQhG&gclid=Cj0KCQjw5c_FBhDJARIsAIcmHK_lIWZ-kkK3XfI58u7I5JZbR2RPxDeIFQeWkQcYZPV_FBTMU8BsZvUaAr1xEALw_wcB
 
 
+
+
+
+
+
+EDIFICIOS
+
+GRUA TORRE: entre 2.500.000 a 5.000.000 cop dependiendo su altura
+
+https://colombia.generadordeprecios.info/rehabilitacion/Actividades_preliminares/Andamios_y_maquinaria_de_elevacion/Gruas_torre/Alquiler_de_grua_torre_0_0_0_0.html
+
+EXCAVADORAS DE RODILLO: un precio de 704.000 cop
+
+https://www.skrental.com/Colombia/webapp/wsrest/getDetalleCotizacionPDFF?idSolicitud=112123&hash=W3hfLNIWBHogApl3CFx8qO17PvL.Tim1slokYu7yazJaTao3yVwb6
+
+ANDAMIOS Y COMPONENTES: entre 237.000 a 475.800 cop dependiendo de la altura y anchura
 
 
 
@@ -159,7 +180,7 @@ https://www.tumaquinaya.com/dashboard/bulldozer
 https://www.tremcomaquinaria.com/product-page/alquiler-de-bulldozer
 https://www.aconstructoras.com/product_info.php?products_id=5142
 
-Motoniveladora entre 560.000 COP/día.
+Motoniveladora: entre 560.000 COP/día.
 1.423.256 COP/día 
 1.200.000 COP/día.
 Rodillos Compactadores 
