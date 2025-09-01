@@ -152,56 +152,29 @@ s
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Construccion de Carreteras
 
-Bulldoxer
-Motoniveladora
+Bulldoxer :  entre $800.000 COP día a   1.000.00 cop dia
+https://www.tumaquinaya.com/dashboard/bulldozer
+https://www.tremcomaquinaria.com/product-page/alquiler-de-bulldozer
+https://www.aconstructoras.com/product_info.php?products_id=5142
+
+Motoniveladora entre 560.000 COP/día.
+1.423.256 COP/día 
+1.200.000 COP/día.
 Rodillos Compactadores 
-Fresadora De Asfalto
-Extendedora de Asfalto
-Camiones de volqueteo
+https://equinorte.co/alquiler/alquiler-de-motoniveladora/
+
+Fresadora De Asfalto arato / ligera	$15.000.000 – $30.000.000
+Promedio / estándar	$30.000.000 – $60.000.000
+Avanzada / grande	$60.000.000 – $120.000.000
+Muy especializada	$120.000.000 – $200.000.000+
+https://viascol.com.co/alquiler-de-maquinaria/
+
+Extendedora de Asfalto: Estimación de rangos de alquiler por día Coste bajo / compacta	$1.200.000 – $1.800.000
+Estándar / promedio	$2.000.000 – $3.500.000
+Alta capacidad / nueva	$3.500.000 – $5.000.000+
+https://vehiculos.tucarro.com.co/alquiler-maquinaria-pesada-asfalto-pavimentadora
+
+Camiones de volqueteo : precio unico 280.000 Cop dia
+https://www.tumaquinaya.com/dashboard/camion
